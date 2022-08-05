@@ -1,0 +1,4 @@
+github.com/darkwyrm/b85 v0.0.0-20210908110113-bdd55eedeb3c h1:YLArciECh1asvnttuaj3fw/pwIu4LdAqsfQ2mQ93+zE=
+github.com/darkwyrm/b85 v0.0.0-20210908110113-bdd55eedeb3c/go.mod h1:Y+dLEpDDyKToPP4ZGSmNFd0iQO9L8pnxn8xqCmA21gc=
+golang.org/x/sys v0.0.0-20220803195053-6e608f9ce704 h1:Y7NOhdqIOU8kYI7BxsgL38d0ot0raxvcW+EMQU2QrT4=
+golang.org/x/sys v0.0.0-20220803195053-6e608f9ce704/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
