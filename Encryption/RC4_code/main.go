@@ -32,7 +32,7 @@ func main(){
 	s := rc4encode(data, key)
 	fmt.Printf("加密密钥: %v \n", string(key))
 	fmt.Printf("加密数据: %v \n", string(data))
-	fmt.Printf("加密结果: %v \n", s)
+	fmt.Printf("加密结果: %v \n", string(s))
 	d := rc4decode(s, key)
 	fmt.Printf("解密结果: %v \n", string(d))
 }
